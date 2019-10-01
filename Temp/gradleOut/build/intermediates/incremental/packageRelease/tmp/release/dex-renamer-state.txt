@@ -1,0 +1,4 @@
+#Mon Sep 30 22:11:58 EDT 2019
+base.0=C\:\\Users\\Myles\\Documents\\Fall 2019\\CIS568\\PaintSplat\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

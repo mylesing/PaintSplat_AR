@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Myles\\Documents\\Fall 2019\\CIS568\\PaintSplat\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Myles\\Documents\\Fall 2019\\CIS568\\PaintSplat\\Temp\\gradleOut\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Myles\\Documents\\Fall 2019\\CIS568\\PaintSplat\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "C:\\Users\\Myles\\Documents\\Fall 2019\\CIS568\\PaintSplat\\Temp\\gradleOut\\src\\main\\res\\mipmap-anydpi-v26\\app_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myles\\Documents\\Fall 2019\\CIS568\\PaintSplat\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_app_icon.png.flat",
+        "source": "C:\\Users\\Myles\\Documents\\Fall 2019\\CIS568\\PaintSplat\\Temp\\gradleOut\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Myles\\Documents\\Fall 2019\\CIS568\\PaintSplat\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Myles\\Documents\\Fall 2019\\CIS568\\PaintSplat\\Temp\\gradleOut\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Myles\\Documents\\Fall 2019\\CIS568\\PaintSplat\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "C:\\Users\\Myles\\Documents\\Fall 2019\\CIS568\\PaintSplat\\Temp\\gradleOut\\src\\main\\res\\mipmap-anydpi-v26\\app_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Myles\\Documents\\Fall 2019\\CIS568\\PaintSplat\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\layout___arcore_education.xml.flat",
+        "source": "C:\\Users\\Myles\\.gradle\\caches\\transforms-2\\files-2.1\\17a09420ce942a2e320dbe458a14acb3\\res\\layout\\__arcore_education.xml"
+    }
+]
