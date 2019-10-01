@@ -27,7 +27,7 @@ public class BoardBehavior : Photon.MonoBehaviour {
 
         if (numhits > 10) {
                  lossText.enabled = true;
-        } else if (numhits <= 10 && Score.currScore > 10000.0f) {
+        } else if ((numhits <= 10) && (Score.currScore >= 10000.0f)) {
                  winText.enabled = true;
         }
 	}

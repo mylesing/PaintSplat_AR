@@ -1,5 +1,7 @@
 ScriptsOnlyBuild:
   usedScripts:
+    Assembly-CSharp-Editor.dll:
+    - PunSceneSettings
     Assembly-CSharp.dll:
     - BallBehavior
     - GyroController
@@ -1629,4 +1631,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/PaintBall_Mobile.unity
-  playerPath: C:/Users/Myles/Documents/Fall 2019/CIS568/PaintSplat/paintsplat_final.apk
+  playerPath: C:/Users/Myles/Documents/Fall 2019/CIS568/PaintSplat/paintsplat_final2.apk
